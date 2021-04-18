@@ -7,7 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-iconsav3/icons/linkedin.svg" >][https://www.linkedin.com/in/vikas-yadav-5526b7171/]
-[<img align="left"| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-icons@v3/icons/instagram.svg" >][https://www.instagram.com/itsvikas0304/]
+<a href="https://www.linkedin.com/in/vikas-yadav-5526b7171/">
+  <img align="left" alt="Vikas Yadav | CodeSandbox" width="20px" src="https://github.com/itsvikas0304/itsvikas0304/blob/main/assests/linkedln.svg" />
+</a>
+<a href="https://www.instagram.com/itsvikas0304/">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://github.com/itsvikas0304/itsvikas0304/blob/main/assests/instagram.png" />
+</a>
+<br />
+<br />
