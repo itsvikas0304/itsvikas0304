@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Vikas Yadav
+#### Hi, I'm Vikas Yadav, a Competitive Programmer and data engineering Explorer from INDIA.
 
-<!--
-**itsvikas0304/itsvikas0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Skills: CPP / C / Python / MySQL 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
