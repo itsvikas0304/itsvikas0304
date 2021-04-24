@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Vikas 
-#### Hi, I'm Vikas Yadav, a Competitive Programmer and dData Engineering Enthusiast from INDIA.
+#### Hi, I'm Vikas Yadav, a Competitive Programmer and Data Engineering Enthusiast from INDIA.
 
 - 🔭 Looking for internship opportunities
 - 🌱 I’m currently learning everything 🤣
